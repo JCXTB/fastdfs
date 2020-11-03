@@ -1,0 +1,8 @@
+server:
+  port: 8080
+fastdfs:
+  connect_timeout_in_seconds: 3000
+  network_timeout_in_seconds: 3000
+  charset: UTF-8
+  tracker_servers: xx.xxx.x.x:22122
+  storage_server: http://xx.xx.cn/
