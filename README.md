@@ -7,4 +7,4 @@ SpringBoot 整合 FastDFS 实现文件的上传与下载
   文件信息获取：接收 ID 返回文件信息
   文件删除： 接收 ID，删除数据库文件信息和 FastDFS 文件
 
-项目部分代码已经注释，可以直接运行，打开 swagger 地址（http://localhost:8080/swagger-ui.html）可以直接上传文件，返回文件的存储地址。如需完整功能可放开注释并配置数据库相关信息等
+项目部分代码已经注释，可以直接运行，打开 swagger 地址（http://localhost:8080/swagger-ui.html） 可以直接上传文件，返回文件的存储地址。如需完整功能可放开注释并配置数据库相关信息等
